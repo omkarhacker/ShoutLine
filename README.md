@@ -53,7 +53,7 @@ A modern social media platform that allows users to share posts, interact with o
    cd ../server
    npm node index.js
 
-5. MongoDB Schema:
+## MongoDB Schema:
 
    ![MongoDB Schema](https://github.com/omkarhacker/ShoutLine/blob/main/server/sociopedia-schema.png)
 
